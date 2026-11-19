@@ -8,7 +8,8 @@ tags:
   - circuit-breaker
   - hystrix
   - microservices
-author: "Shiv Bade"
+authors:
+  - shiv
 ---
 
 Resilience engineering in distributed systems requires proactive isolation.

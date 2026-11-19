@@ -211,7 +211,7 @@ def convert_post(src_path: Path, dry_run: bool = False) -> Optional[Path]:
         "tags": [normalize_tag(t) for t in tags],
     }
     if data["author"]:
-        front_matter["author"] = data["author"]
+        front_matter["authors"] = ["shiv"]
     if data["featured"].lower() == "yes":
         front_matter["pin"] = True
 

@@ -7,7 +7,8 @@ categories:
 tags:
   - cluster-upgrade
   - k8s
-author: "Shiv Bade"
+authors:
+  - shiv
 ---
 
 Upgraded our staging clusters to v1.19 this quarter.

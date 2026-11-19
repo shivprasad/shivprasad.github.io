@@ -8,7 +8,8 @@ tags:
   - concurrent-rendering
   - react-18
   - suspense
-author: "Shiv Bade"
+authors:
+  - shiv
 ---
 
 React 18 is out! Highlights:

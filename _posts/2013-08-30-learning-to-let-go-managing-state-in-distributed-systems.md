@@ -8,7 +8,8 @@ tags:
   - data-integrity
   - distributed-computing
   - eventual-consistency
-author: "Shiv Bade"
+authors:
+  - shiv
 ---
 
 2013 was a year of unlearning—especially around state management. Coming from a relational DB background, I was used to strong consistency, transactions, and rollback guarantees.

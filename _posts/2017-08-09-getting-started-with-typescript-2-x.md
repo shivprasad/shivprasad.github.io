@@ -7,7 +7,8 @@ categories:
 tags:
   - javascript
   - typescript
-author: "Shiv Bade"
+authors:
+  - shiv
 ---
 
 Adopted TypeScript 2.x for a UI project. Loved:
